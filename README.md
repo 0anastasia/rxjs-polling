@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/c0p3v8wkc3adirdj?svg=true)](https://ci.appveyor.com/project/0anastasia/rxjs-polling)
 
+https://github.com/0anastasia/rxjs-backend
+
 ## Polling
 
 Вы делаете корпоративную систему, в рамках которой есть система обмена сообщениями, аналогичная email. Вам необходимо реализовать периодический опрос сервера о поступлении новых сообщений. Поскольку для работы в вашей организации используестя rxjs, то и сделать вам это нужно с его помощью.
